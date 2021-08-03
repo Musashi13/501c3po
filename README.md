@@ -1,2 +1,2 @@
 # 501c3po
-Charity Donation Protocol
+Perpetual Charity Donation Protocol
